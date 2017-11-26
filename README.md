@@ -1,4 +1,4 @@
 # dockersample
 
-サンプル用dockerファイル
-dockerhubとの連動テスト用
+サンプル用dockerリポジトリ
+#dockerhubとの連動テスト用
